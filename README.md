@@ -1,6 +1,6 @@
 # JavaFX-Breakout
 
-Description: A remake of the classic 1976 game "Breakout", in which a player will try to bounce a ball around the screen to break blocks whilc keeping the ball bouncing on a paddle. The goal of the game is to break all the blocks on the screen and make sure that the ball does not touch the bottom of the screen or else the game will reset.
+Description: A remake of the classic 1976 game "Breakout", in which a player will try to bounce a ball around the screen to break blocks while keeping the ball bouncing on a paddle. The goal of the game is to break all the blocks on the screen and make sure that the ball does not touch the bottom of the screen or else the game will reset.
 
 Video walkthrough avaliable at https://www.youtube.com/watch?v=wd4QeSJSGgM
 
